@@ -4,6 +4,8 @@
 
 Este proyecto consiste en la implementación de una API REST utilizando el framework Laravel, integrando un paquete personalizado para la generación automática de operaciones CRUD. El objetivo principal es demostrar cómo automatizar la creación de un sistema backend funcional que permita gestionar datos mediante peticiones HTTP, reduciendo el tiempo de desarrollo y manteniendo una arquitectura limpia.
 
+VIDEO DE YOUTUBE MOSTRANDO FUNCIONAMIENTO: https://youtu.be/hsSXZXZPeaQ
+
 ---
 
 ## ⚙️ Tecnologías Utilizadas
